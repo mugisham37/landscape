@@ -1,4 +1,6 @@
-const overview = () => {
+import React from 'react'
+
+const Overview = () => {
   return (
     <section className="section_overview">
                 <div className="padding-global padding-section-large">
@@ -131,4 +133,4 @@ const overview = () => {
   )
 }
 
-export default overview
+export default Overview

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const experience = () => {
+const Experience = () => {
   return (
     <section className="section_experience">
                 <div className="padding-global padding-section-large">
@@ -82,4 +82,4 @@ const experience = () => {
   )
 }
 
-export default experience
+export default Experience

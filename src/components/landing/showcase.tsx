@@ -1,6 +1,6 @@
 import React from 'react'
 
-const showcase = () => {
+const Showcase = () => {
   return (
     <section className="section_showcase">
                 <div className="padding-global padding-section-large">
@@ -269,4 +269,4 @@ const showcase = () => {
   )
 }
 
-export default showcase
+export default Showcase

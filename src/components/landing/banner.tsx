@@ -1,6 +1,6 @@
 import React from 'react'
 
-const banner = () => {
+const Banner = () => {
   return (
    <section className="section_banner">
                 <section className="decorative-lines is-banner">
@@ -52,4 +52,4 @@ const banner = () => {
   )
 }
 
-export default banner
+export default Banner

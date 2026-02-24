@@ -1,6 +1,6 @@
 import React from 'react'
 
-const explore = () => {
+const Explore = () => {
   return (
     <section className="section_explore">
                 <div className="padding-global padding-section-large">
@@ -70,4 +70,4 @@ const explore = () => {
   )
 }
 
-export default explore
+export default Explore

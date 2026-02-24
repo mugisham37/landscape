@@ -1,6 +1,6 @@
 import React from 'react'
 
-const events = () => {
+const Events = () => {
   return (
     <section className="section_events">
                 <div className="padding-global padding-section-large">
@@ -94,4 +94,4 @@ const events = () => {
   )
 }
 
-export default events
+export default Events

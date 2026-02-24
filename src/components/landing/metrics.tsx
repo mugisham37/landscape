@@ -1,6 +1,6 @@
 import React from 'react'
 
-const metrics = () => {
+const Metrics = () => {
   return (
     <section className="section_metrics">
                 <div className="padding-global padding-section-large">
@@ -90,4 +90,4 @@ const metrics = () => {
   )
 }
 
-export default metrics
+export default Metrics

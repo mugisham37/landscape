@@ -1,6 +1,6 @@
 import React from 'react'
 
-const hero = () => {
+const Hero = () => {
   return (
     <div className="section_hero">
       <div className="hero_nav-wrap">
@@ -454,4 +454,4 @@ const hero = () => {
   )
 }
 
-export default hero
+export default Hero
