@@ -9,17 +9,17 @@ const Design = () => {
                             <div className="designs_content">
                                 <div className="header">
                                     <div data-w-id="1c05455e-571c-7f61-581a-26a038891c80"
-                                        style={{transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 0, transformStyle: 'preserve-3d'}}
+                                        style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 1, transformStyle: 'preserve-3d'}}
                                         className="badge-wrapper">
                                         <div className="badge">
                                             <div className="badge-text">Projects<br /></div>
                                         </div>
                                     </div>
                                     <h2 data-w-id="40c2ab87-8424-3c15-29d1-c24db04f8b41"
-                                        style={{transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 0, transformStyle: 'preserve-3d'}}
+                                        style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 1, transformStyle: 'preserve-3d'}}
                                         className="text-5xl">Projects</h2>
                                     <div data-w-id="5b02f92e-48de-d8e3-e6fc-223d74e9563a"
-                                        style={{transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 0, transformStyle: 'preserve-3d'}}
+                                        style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 1, transformStyle: 'preserve-3d'}}
                                         className="designs_description">
                                         <div className="text-base text-color-secondary">Our approach features an efficient
                                             and optimized architectural workflow.</div>
@@ -39,14 +39,14 @@ const Design = () => {
                                                     alt="" sizes="100vw"
                                                     srcSet="https://cdn.prod.website-files.com/67463b290def428dc18a793d/674dcdbac9ab933a8c0cd79a_thumbnail-p-500.webp 500w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/674dcdbac9ab933a8c0cd79a_thumbnail-p-800.webp 800w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/674dcdbac9ab933a8c0cd79a_thumbnail-p-1080.webp 1080w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/674dcdbac9ab933a8c0cd79a_thumbnail.webp 1104w"
                                                     className="img img-parallax"
-                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', filter: 'blur(20px)', willChange: 'transform'}} />
+                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', filter: 'blur(0px)', willChange: 'transform'}} />
                                             </div>
                                             <div className="designs_card-content">
                                                 <h3 data-w-id="2ee4025c-5647-fb93-84eb-a7798b7dc45e"
-                                                    style={{transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 0, transformStyle: 'preserve-3d'}}
+                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 1, transformStyle: 'preserve-3d'}}
                                                     className="text-xl">Urban Retreat in Golden Gate Park</h3>
                                                 <div data-w-id="1fbb496f-e538-adee-79a8-f1366665f2b7"
-                                                    style={{opacity: 0, transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}
+                                                    style={{opacity: 1, transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}
                                                     className="designs_card-year-wrap"><img
                                                         src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674dddf7391111706be28b45_black%20dot.svg"
                                                         loading="lazy" alt="" className="showcase_card-year-icon" />
@@ -68,14 +68,14 @@ const Design = () => {
                                                     alt="" sizes="100vw"
                                                     srcSet="https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395abe15688504bade266_Hero-p-500.png 500w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395abe15688504bade266_Hero-p-800.png 800w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395abe15688504bade266_Hero-p-1080.png 1080w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395abe15688504bade266_Hero.png 1104w"
                                                     className="img img-parallax"
-                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', filter: 'blur(20px)', willChange: 'transform'}} />
+                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', filter: 'blur(0px)', willChange: 'transform'}} />
                                             </div>
                                             <div className="designs_card-content">
                                                 <h3 data-w-id="e05c4209-f572-d324-6f02-f832c0736fa3"
-                                                    style={{transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 0, transformStyle: 'preserve-3d'}}
+                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 1, transformStyle: 'preserve-3d'}}
                                                     className="text-xl">Grand Conference Hall</h3>
                                                 <div data-w-id="e05c4209-f572-d324-6f02-f832c0736fa4"
-                                                    style={{opacity: 0, transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}
+                                                    style={{opacity: 1, transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}
                                                     className="designs_card-year-wrap"><img
                                                         src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674dddf7391111706be28b45_black%20dot.svg"
                                                         loading="lazy" alt="" className="showcase_card-year-icon" />
@@ -98,14 +98,14 @@ const Design = () => {
                                                     alt="" sizes="100vw"
                                                     srcSet="https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395bbe56d6870c53d215c_Hero-1-p-500.png 500w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395bbe56d6870c53d215c_Hero-1-p-800.png 800w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395bbe56d6870c53d215c_Hero-1-p-1080.png 1080w, https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395bbe56d6870c53d215c_Hero-1.png 1104w"
                                                     className="img img-parallax"
-                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', filter: 'blur(20px)', willChange: 'transform'}} />
+                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', filter: 'blur(0px)', willChange: 'transform'}} />
                                             </div>
                                             <div className="designs_card-content">
                                                 <h3 data-w-id="edb7c39b-ab6d-3bec-2ff4-afee5a497212"
-                                                    style={{transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 0, transformStyle: 'preserve-3d'}}
+                                                    style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 1, transformStyle: 'preserve-3d'}}
                                                     className="text-xl">Shopping Center</h3>
                                                 <div data-w-id="edb7c39b-ab6d-3bec-2ff4-afee5a497213"
-                                                    style={{opacity: 0, transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}
+                                                    style={{opacity: 1, transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}
                                                     className="designs_card-year-wrap"><img
                                                         src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674dddf7391111706be28b45_black%20dot.svg"
                                                         loading="lazy" alt="" className="showcase_card-year-icon" />

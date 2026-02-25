@@ -7,7 +7,7 @@ const Logos = () => {
                 <div className="container-large">
                     <div className="logos_content">
                         <div data-w-id="3ac17e82-92cf-45cb-11fc-73f0ee52afb9" className="logos"
-                            style={{ transform: 'translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', opacity: 0 }}>
+                            style={{ transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', opacity: 1 }}>
                             <div className="grid-logos"><img
                                 src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674a021b84d73ae282b01a9c_experience%20icon%201.svg"
                                 loading="lazy" alt="" className="logo" /><img

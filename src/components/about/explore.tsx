@@ -12,7 +12,7 @@ const explore = () => {
                                     sizes="(max-width: 1104px) 100vw, 1104px" alt=""
                                     srcSet="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b3159947e077bb47f9705_explore%20image%201-p-500.webp 500w, https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b3159947e077bb47f9705_explore%20image%201-p-800.webp 800w, https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b3159947e077bb47f9705_explore%20image%201-p-1080.webp 1080w, https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b3159947e077bb47f9705_explore%20image%201.webp 1104w"
                                     className="img img-parallax"
-                                    style={{transform: "translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", filter: "blur(20px)", willChange: "transform"}} />
+                                    style={{transform: "translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", filter: "blur(0px)", willChange: "transform"}} />
                                 <div className="explore_card-header">
                                     <div data-w-id="42302e83-bbf4-64c0-4f42-be8b8ff094f3" className="badge-wrapper"
                                         style={{transform: "translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", opacity: 0}}>
@@ -41,7 +41,7 @@ const explore = () => {
                                     sizes="(max-width: 1104px) 100vw, 1104px" alt=""
                                     srcSet="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b31598f6a3b8d67d6e5f6_explore%20image%202-p-500.webp 500w, https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b31598f6a3b8d67d6e5f6_explore%20image%202-p-800.webp 800w, https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b31598f6a3b8d67d6e5f6_explore%20image%202-p-1080.webp 1080w, https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b31598f6a3b8d67d6e5f6_explore%20image%202.webp 1104w"
                                     className="img img-parallax"
-                                    style={{transform: "translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", filter: "blur(20px)", willChange: "transform"}} />
+                                    style={{transform: "translate3d(0px, 0%, 0px) scale3d(1.35, 1.35, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", filter: "blur(0px)", willChange: "transform"}} />
                                 <div className="explore_card-header">
                                     <div data-w-id="42302e83-bbf4-64c0-4f42-be8b8ff09500" className="badge-wrapper"
                                         style={{transform: "translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", opacity: 0}}>

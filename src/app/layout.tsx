@@ -1,5 +1,6 @@
 import "./globals.css";
 import Script from "next/script";
+import Footer from "@/components/footer";
 
 export default function RootLayout({
   children,
@@ -74,7 +75,7 @@ export default function RootLayout({
           <main className="main-wrapper">
             {children}
           </main>
-          <footer />
+          <Footer />
         </div>
         <Script
           src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67463b290def428dc18a7933"
