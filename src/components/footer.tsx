@@ -25,10 +25,10 @@ const footer = () => {
                                         className="text-base text-weight-medium"
                                         style={{transform: "translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", opacity: 0}}>
                                         Extra links</div>
-                                </div><a href="/about-us" data-w-id="21201d86-1b35-2514-33d4-9d719388a706"
+                                </div><a href="/project" data-w-id="21201d86-1b35-2514-33d4-9d719388a706"
                                     className="footer_link w-inline-block"
                                     style={{transform: "translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", opacity: 0}}>
-                                    <div className="text-base text-spacing-none">About Us</div>
+                                    <div className="text-base text-spacing-none">Projects</div>
                                     <div className="link-underline"
                                         style={{transform: "translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
                                     </div>
@@ -39,17 +39,17 @@ const footer = () => {
                                     <div className="link-underline"
                                         style={{transform: "translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
                                     </div>
-                                </a><a href="/contact" data-w-id="21201d86-1b35-2514-33d4-9d719388a70a"
+                                </a><a href="/about" data-w-id="21201d86-1b35-2514-33d4-9d719388a70a"
                                     className="footer_link w-inline-block"
                                     style={{transform: "translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", opacity: 0}}>
-                                    <div className="text-base text-spacing-none">Contact</div>
+                                    <div className="text-base text-spacing-none">About Us</div>
                                     <div className="link-underline"
                                         style={{transform: "translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
                                     </div>
-                                </a><a href="/blog" data-w-id="21201d86-1b35-2514-33d4-9d719388a70e"
+                                </a><a href="/contact" data-w-id="21201d86-1b35-2514-33d4-9d719388a70e"
                                     className="footer_link w-inline-block"
                                     style={{transform: "translate3d(0px, 15%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d", opacity: 0}}>
-                                    <div className="text-base text-spacing-none">Blogs</div>
+                                    <div className="text-base text-spacing-none">Contact</div>
                                     <div className="link-underline"
                                         style={{transform: "translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
                                     </div>
