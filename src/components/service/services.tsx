@@ -25,8 +25,8 @@ const services = () => {
                                 </div>
                             </div>
                             <div id="w-node-a727f619-91fe-de47-c3d1-9fded26bf218-b3683d58" className="services_content"><a
-                                    data-w-id="f943fb97-60c2-7754-33a8-5a7393daeaf3" href="https://www.temlis.com/"
-                                    target="_blank" className="services_card w-inline-block">
+                                    data-w-id="f943fb97-60c2-7754-33a8-5a7393daeaf3" href="/contact"
+                                    className="services_card w-inline-block">
                                     <div data-w-id="b9ff4773-8f97-9552-00a0-3570c99f8460" className="services_card-visual">
                                         <img src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/676355523c65ff15dfb62b88_services%20image%201.webp"
                                             loading="lazy" data-w-id="5206182d-062f-2a67-360c-383997262b1d"
@@ -56,8 +56,8 @@ const services = () => {
                                             </svg>
                                         </div>
                                     </div>
-                                </a><a data-w-id="15d46dd4-1e55-6c82-c5d8-c569ce800f5b" href="https://www.temlis.com/"
-                                    target="_blank" className="services_card w-inline-block">
+                                </a><a data-w-id="15d46dd4-1e55-6c82-c5d8-c569ce800f5b" href="/contact"
+                                    className="services_card w-inline-block">
                                     <div data-w-id="15d46dd4-1e55-6c82-c5d8-c569ce800f5c" className="services_card-visual">
                                         <img src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/67635552448c4986e83aff7a_services%20image%202.webp"
                                             loading="lazy" data-w-id="15d46dd4-1e55-6c82-c5d8-c569ce800f5d"
@@ -87,8 +87,8 @@ const services = () => {
                                             </svg>
                                         </div>
                                     </div>
-                                </a><a data-w-id="d8c3af6e-c1da-ab43-1401-b008435aa383" href="https://www.temlis.com/"
-                                    target="_blank" className="services_card w-inline-block">
+                                </a><a data-w-id="d8c3af6e-c1da-ab43-1401-b008435aa383" href="/contact"
+                                    className="services_card w-inline-block">
                                     <div data-w-id="d8c3af6e-c1da-ab43-1401-b008435aa384" className="services_card-visual">
                                         <img src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/67635553ae452f6edaeaa305_services%20image%203.webp"
                                             loading="lazy" data-w-id="d8c3af6e-c1da-ab43-1401-b008435aa385"
@@ -118,8 +118,8 @@ const services = () => {
                                             </svg>
                                         </div>
                                     </div>
-                                </a><a data-w-id="1ade0d44-130d-bede-4617-1476447a31df" href="https://www.temlis.com/"
-                                    target="_blank" className="services_card w-inline-block">
+                                </a><a data-w-id="1ade0d44-130d-bede-4617-1476447a31df" href="/contact"
+                                    className="services_card w-inline-block">
                                     <div data-w-id="1ade0d44-130d-bede-4617-1476447a31e0" className="services_card-visual">
                                         <img src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/6763555294a130ce2261b849_services%20image%204.webp"
                                             loading="lazy" data-w-id="1ade0d44-130d-bede-4617-1476447a31e1"
@@ -149,8 +149,8 @@ const services = () => {
                                             </svg>
                                         </div>
                                     </div>
-                                </a><a data-w-id="fdf13879-f3ae-51f7-e9ea-9a0474cf131e" href="https://www.temlis.com/"
-                                    target="_blank" className="services_card w-inline-block">
+                                </a><a data-w-id="fdf13879-f3ae-51f7-e9ea-9a0474cf131e" href="/contact"
+                                    className="services_card w-inline-block">
                                     <div data-w-id="fdf13879-f3ae-51f7-e9ea-9a0474cf131f" className="services_card-visual">
                                         <img src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/67635552ae452f6edaeaa263_services%20image%205.webp"
                                             loading="lazy" data-w-id="fdf13879-f3ae-51f7-e9ea-9a0474cf1320" alt=""
@@ -178,8 +178,8 @@ const services = () => {
                                             </svg>
                                         </div>
                                     </div>
-                                </a><a data-w-id="9f9b0c26-baef-ff7f-84ef-b05f05cd854d" href="https://www.temlis.com/"
-                                    target="_blank" className="services_card w-inline-block">
+                                </a><a data-w-id="9f9b0c26-baef-ff7f-84ef-b05f05cd854d" href="/contact"
+                                    className="services_card w-inline-block">
                                     <div data-w-id="9f9b0c26-baef-ff7f-84ef-b05f05cd854e" className="services_card-visual">
                                         <img src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/67635552688113a9171ba401_services%20image%206.webp"
                                             loading="lazy" data-w-id="9f9b0c26-baef-ff7f-84ef-b05f05cd854f"

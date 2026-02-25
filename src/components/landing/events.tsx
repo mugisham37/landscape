@@ -24,12 +24,12 @@ const Events = () => {
                                 </div>
                                 <div data-w-id="d1098a6d-28de-6ed2-6dc7-207bb3af6150"
                                     style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', opacity: 1}}
-                                    className="button-wrapper"><a href="https://www.temlis.com/" target="_blank"
+                                    className="button-wrapper"><a href="/project"
                                         className="button is-tertiary w-button">See more</a></div>
                             </div>
                             <div className="events_content"><a id="w-node-_40205fbd-13dd-72a8-f0a4-5e1f1090adf9-c18a7924"
-                                    data-w-id="40205fbd-13dd-72a8-f0a4-5e1f1090adf9" href="https://www.temlis.com/"
-                                    target="_blank" className="events_card w-inline-block">
+                                    data-w-id="40205fbd-13dd-72a8-f0a4-5e1f1090adf9" href="/project"
+                                    className="events_card w-inline-block">
                                     <div data-w-id="94f246ad-0399-7855-dd33-07fab8d40c3c" className="events_card-visual">
                                         <img src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/67634c04e9f1eb16b3e8f567_events%20image%20one.webp"
                                             loading="lazy"
@@ -49,8 +49,8 @@ const Events = () => {
                                             style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', opacity: 1}}
                                             className="text-xl">Presentation of new objectives and entry of new talents</h3>
                                     </div>
-                                </a><a data-w-id="cce109c5-96c6-fc89-e270-a2e37b2c6a45" href="https://www.temlis.com/"
-                                    target="_blank" className="events_card w-inline-block">
+                                </a><a data-w-id="cce109c5-96c6-fc89-e270-a2e37b2c6a45" href="/project"
+                                    className="events_card w-inline-block">
                                     <div data-w-id="cce109c5-96c6-fc89-e270-a2e37b2c6a46"
                                         className="events_card-visual is-secondary"><img
                                             src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/67634c03dffad93f60e0a0b2_events%20image%20two.webp"
@@ -68,8 +68,8 @@ const Events = () => {
                                             className="text-xl">New alliance with leading company</h3>
                                     </div>
                                 </a><a id="w-node-e0254047-2ec5-3d27-13ff-9536bfe4c370-c18a7924"
-                                    data-w-id="e0254047-2ec5-3d27-13ff-9536bfe4c370" href="https://www.temlis.com/"
-                                    target="_blank" className="events_card w-inline-block">
+                                    data-w-id="e0254047-2ec5-3d27-13ff-9536bfe4c370" href="/project"
+                                    className="events_card w-inline-block">
                                     <div data-w-id="e0254047-2ec5-3d27-13ff-9536bfe4c371"
                                         className="events_card-visual is-secondary"><img
                                             src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/67634c0420e416f7c366fa7f_events%20image%20three.webp"

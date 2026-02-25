@@ -41,7 +41,7 @@ const journey = () => {
                                         future generations. Change starts with us.</div>
                                     <div data-w-id="7441a6b3-328c-76e6-0990-7c7e8810ea9c"
                                         style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', opacity: 1, transformStyle: 'preserve-3d'}}
-                                        className="button-wrapper"><a href="#" className="button is-tertiary w-button">Contact
+                                        className="button-wrapper"><a href="/contact" className="button is-tertiary w-button">Contact
                                             us</a></div>
                                 </div>
                             </div>

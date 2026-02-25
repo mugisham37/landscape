@@ -21,7 +21,7 @@ const cta = () => {
                                     cultures and celebrate the beauty of human interaction.</div>
                                 <div data-w-id="02b64c88-619b-5712-55ae-df12cf71bcd2" className="button-wrapper"
                                     style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', opacity: 1}}>
-                                    <a data-w-id="fbedffb8-d028-8568-370e-9306a5190026" href="/account/sign-in"
+                                    <a data-w-id="fbedffb8-d028-8568-370e-9306a5190026" href="/contact"
                                         className="button is-primary w-inline-block">
                                         <div className="button-text-wrap">
                                             <div className="button-text is-firts"

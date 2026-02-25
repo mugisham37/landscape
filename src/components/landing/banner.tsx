@@ -33,7 +33,7 @@ const Banner = () => {
                                 <div data-w-id="5c421e00-4a8a-a675-5e73-49d874561231"
                                     style={{transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d', opacity: 1}}
                                     className="button-wrapper"><a data-w-id="1e995a29-d29b-7e43-d00b-d833696796a1"
-                                        href="/account/sign-in" className="button-cicle w-inline-block"
+                                        href="/contact" className="button-cicle w-inline-block"
                                         style={{willChange: 'transform', transform: 'translate3d(0rem, 0rem, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}>
                                         <div className="button-circle_wrapper">
                                             <div className="text-block">Contact us</div>

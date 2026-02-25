@@ -30,7 +30,7 @@ const Design = () => {
                                 <div role="list" className="w-dyn-items">
                                     <div role="listitem" className="w-dyn-item"><a
                                             data-w-id="3f019710-5589-ef34-bbe0-228800204f53"
-                                            href="/projects/urban-retreat-in-golden-gate-park"
+                                            href="/project/urban-retreat-in-golden-gate-park"
                                             className="designs_card w-inline-block">
                                             <div data-w-id="52dc0a8e-2b8b-4464-c18c-f256234cc5bd"
                                                 className="designs_card-visual"><img
@@ -60,7 +60,7 @@ const Design = () => {
                                 <div role="list" className="w-dyn-items">
                                     <div role="listitem" className="w-dyn-item"><a
                                             data-w-id="ba602215-a997-2cfa-cd7f-354f86dd7f9d"
-                                            href="/projects/grand-conference-hall" className="designs_card w-inline-block">
+                                            href="/project/grand-conference-hall" className="designs_card w-inline-block">
                                             <div data-w-id="e05c4209-f572-d324-6f02-f832c0736fa0"
                                                 className="designs_card-visual"><img
                                                     src="https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395abe15688504bade266_Hero.png"
@@ -90,7 +90,7 @@ const Design = () => {
                                 <div role="list" className="w-dyn-items">
                                     <div role="listitem" className="w-dyn-item"><a
                                             data-w-id="3edd57c7-2e91-62dc-bcad-d1cb0e91076b"
-                                            href="/projects/shopping-center" className="designs_card w-inline-block">
+                                            href="/project/shopping-center" className="designs_card w-inline-block">
                                             <div data-w-id="edb7c39b-ab6d-3bec-2ff4-afee5a49720f"
                                                 className="designs_card-visual is-third"><img
                                                     src="https://cdn.prod.website-files.com/67463b290def428dc18a793d/676395bbe56d6870c53d215c_Hero-1.png"

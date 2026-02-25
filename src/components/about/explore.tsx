@@ -6,7 +6,7 @@ const explore = () => {
                 <div className="padding-global padding-section-large">
                     <div className="container-large">
                         <div className="explore_content"><a data-w-id="42302e83-bbf4-64c0-4f42-be8b8ff094f0"
-                                href="/projects" className="explore_card w-inline-block"><img
+                                href="/project" className="explore_card w-inline-block"><img
                                     src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b3159947e077bb47f9705_explore%20image%201.webp"
                                     loading="lazy" data-w-id="31fd9f8e-82a9-d4b3-a8d5-98da1f206d26"
                                     sizes="(max-width: 1104px) 100vw, 1104px" alt=""
@@ -34,7 +34,7 @@ const explore = () => {
                                         </div>
                                     </div>
                                 </div>
-                            </a><a data-w-id="42302e83-bbf4-64c0-4f42-be8b8ff094fd" href="/account/sign-in"
+                            </a><a data-w-id="42302e83-bbf4-64c0-4f42-be8b8ff094fd" href="/contact"
                                 className="explore_card w-inline-block"><img
                                     src="https://cdn.prod.website-files.com/67463b290def428dc18a7933/674b31598f6a3b8d67d6e5f6_explore%20image%202.webp"
                                     loading="lazy" data-w-id="dbe5502e-5e15-0728-cae8-3641edfedd73"
